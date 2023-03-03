@@ -1,0 +1,43 @@
+*{
+    font-family: 'EB Garamond', serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Work Sans', sans-serif;
+}
+.btn-one{
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+    border:0 ;
+    width: 200px;
+    height: 50px;
+    background: #B68C5A;
+    border-radius: 8px;
+}
+.fa-solid {
+color: #B68C5A;
+padding:10px ;
+color: #FFFFFF;
+}
+.card-text{
+    padding-bottom:30px ;
+    padding-top: 30px;
+
+}
+.main-card{
+    margin-top:40px ;
+}
+.card-title{
+    margin-top:50px ;
+}
+.icon-img{
+    width: 70px;
+height: 70px;
+}
+.last-btn{
+    background-color: #B68C5A;
+    border-radius: 5px;
+    margin-top:10px ;
+    border: none;
+    margin-left:none ;
+}
